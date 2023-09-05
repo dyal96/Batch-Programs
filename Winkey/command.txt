@@ -2,4 +2,4 @@
 Open in cmd
 winrar-keygen-x64.exe "Github" "Github.com" > rarreg.key
 
-winrar-keygen-x64.exe "Printmax Cafe" "PrintmaxGifts.com" > rarreg.key
+winrar-keygen-x64.exe "username" "website" > rarreg.key
